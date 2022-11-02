@@ -1,0 +1,24 @@
+class Static2 
+{
+	static String pm = " sheela";
+
+	public static void karnataka()
+	{
+		System.out.println(pm);
+	
+	}
+	public static void andhraPradesh()
+	{
+		System.out.println(pm);
+	}
+	public static void tamilNadu()
+	{
+		System.out.println(pm);
+	}
+	public static void main (String [] args)
+	{
+		karnataka();
+		andhraPradesh();
+		tamilNadu();
+	}
+}

@@ -1,0 +1,12 @@
+class Methods2 
+{
+	public static void main(String[] args) 
+	{
+		leave(1,2,3);
+	}
+	public static void leave(int n1 , int n2 , int n3)
+	{
+		int res = n1 + n2 + n3;
+		System.out.println(res);
+	}
+}
